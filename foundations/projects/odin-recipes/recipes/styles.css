@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(222, 209, 193);
+}
+
+* {
+    padding : 4px;
+}
+h1 {
+    background-color: rgb(231, 128, 145);
+    color : rgb(82, 6, 58);
+    text-align: center;
+    height: 50px;
+    padding: 8px;
+    border : 5px solid rgb(182, 28, 28);
+}
+
+h2 {
+   background-color: rgb(226, 152, 63);
+   border: 2px solid rgb(209, 108, 14);
+}
+
+h3 {
+    background-color: rgb(221, 131, 86);
+    border: 2px solid rgb(172, 83, 11);
+}
+
+ul {
+    background-color: rgb(242, 206, 160);
+    margin : 1px;
+    padding-left : 32px;
+}
+
+ol {
+    background-color: rgb(224, 198, 173);
+    margin : 1px;
+    padding-left: 32px;
+}
+
+.tip {
+    background-color: rgb(233, 143, 115);
+    border: 2px solid rgb(195, 31, 31);
+}
+
+h2,h3 {
+    margin-bottom : 1px;
+}
+li {
+    margin: 8px;
+}
